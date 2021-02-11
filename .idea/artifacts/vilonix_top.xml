@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="vilonix-top">
+    <output-path>E:/TEST/TestBukkit #0 Vilonix/plugins</output-path>
+    <root id="archive" name="vilonix-top.jar">
+      <element id="module-output" name="vilonix-top" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,12 @@
+name: mTop
+main: plusm.vilonix.top.Main
+version: "1.0"
+author: "plusm"
+depend:
+  - mAPI
+  - mGAPI
+  - mLib
+loadbefore:
+  - mAPI
+  - mGAPI
+  - mLib
